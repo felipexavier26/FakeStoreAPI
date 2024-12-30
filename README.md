@@ -13,7 +13,7 @@ A FakeStoreAPI oferece dados como nome do produto, preço, descrição, imagens 
 
 
 
-<h1>Funcionalidades/h1>
+<h1>Funcionalidades</h1>
 <li><strong>Listagem de Produtos: </strong> Obtém uma lista completa de produtos.</li>
 <li><strong>Detalhes do Produto:</strong> Acessa informações detalhadas de um produto específico.</li>
 <li><strong>Listagem de Categorias:</strong> Exibe as categorias dos produtos.</li>
